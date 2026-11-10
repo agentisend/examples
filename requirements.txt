@@ -1,4 +1,4 @@
-agentisend==0.1.0
+agentisend>=0.1.0,<=0.1.1
 # The web frameworks the Python examples run under. The `agentisend` package
 # itself has no dependencies; the test harness puts packages/sdk-python on
 # PYTHONPATH. Pinned so the examples run against the versions they were
